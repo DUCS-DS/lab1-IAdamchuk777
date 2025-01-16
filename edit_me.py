@@ -5,7 +5,7 @@ def find_max(lst):
     current_max = lst[0]
 
     #
-    #  YOUR CODE GOES HERE
+    #  BLAAAAAAAAAH 
     #
 
     return current_max
